@@ -51,7 +51,7 @@ class MyData:
 
         print("Accuracy2: %0.2f (+/- %0.2f)" % (scores2.mean(), scores2.std() * 2))
 
-        joblib.dump(clf2, 'initmodel3.pkl') 
+        joblib.dump(clf2, 'initmodel4.pkl') 
 
 
     def isEnglish(self, word):
