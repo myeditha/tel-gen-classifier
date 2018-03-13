@@ -1,0 +1,6 @@
+plan.txt
+status.txt
+results.txt
+initmodel.pkl
+outfile*.json
+csvoutput*
